@@ -82,4 +82,4 @@ This policy may be updated as the extension evolves. Material changes should be 
 
 ## 10. Contact
 
-Support contact: add your public support email before submission.
+Support contact: aristotelischaralampous@gmail.com
